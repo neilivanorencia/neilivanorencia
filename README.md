@@ -1,16 +1,212 @@
-## Hi there 👋
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
+<div>
+  <img
+    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+    width="100%"
+    alt="JavaScript is the boss"
+  />
+</div>
 
-<!--
-**neilivanorencia/neilivanorencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Neil Ivan Orencia</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <picture>
+    <source
+      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.webp"
+      type="image/webp"
+    />
+    <img
+      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.gif"
+      alt="🫣"
+      width="32"
+      height="32"
+    />
+  </picture>
+  <img
+    src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fneilivanorencia&label=Profile%20Views&labelColor=%23025b64&countColor=%23028391&style=flat-square&labelStyle=none"
+    alt="Visitors"
+  />
+  <picture>
+    <source
+      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.webp"
+      type="image/webp"
+    />
+    <img
+      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.gif"
+      alt="🫣"
+      width="32"
+      height="32"
+    />
+  </picture>
+</div>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm a **Bachelor of Science in Computer Science major in Intelligent Systems student** passionate about **web development**, with a **strong foundation in data science and machine learning**. I strive to stay **adaptable**, **analytical**, and **committed to lifelong learning** in the ever-evolving world of technology.
+
+---
+
+<div>
+  <picture>
+    <source
+      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp"
+      type="image/webp"
+    />
+    <img
+      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif"
+      alt="🎓"
+      width="64"
+      height="64"
+    />
+  </picture>
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=About+Me;BSCS+Major+in+Intelligent+Systems;Aspiring+Web+Developer;Tech+Enthusiast;Life-long+Learner;Resourceful"
+      alt="About Me"
+  /></a>
+</div>
+<br />
+
+I am currently taking **Bachelor of Science in Computer Science** with a constant **keen interest in technology** and **passion about lifelong learning**. I work hard and am **adaptable** with a **receptive mind for changes and improvements** in the continuously changing field of technology.
+
+My attention is geared more towards being **analytical** and **resourceful** as well as **updating my knowledge** to keep track and stay ahead of the upcoming developments in the field of technology.
+
+I thrive and am **really passionate about web development and web design**. Additionally, I possess a **solid foundation of knowledge in data science and machine learning**. I also constantly try to **learn and look to add knowledge** in other areas that involve coding.
+
+---
+
+<div>
+  <picture>
+    <source
+      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp"
+      type="image/webp"
+    />
+    <img
+      src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif"
+      alt="✨"
+      width="64"
+      height="64"
+    />
+  </picture>
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Languages+and+Tools;CSS;Figma;Git;HTML;JavaScript;Next.js;Node.js;Obsidian;Python;React;Sass;Tailwind+CSS;Typescript;Visual+Studio+Code"
+      alt="Languages and Tools"
+  /></a>
+</div>
+<br />
+
+[![Languages and Tools](https://skillicons.dev/icons?i=css,figma,git,html,javascript,next,nodejs,obsidian,python,react,scss,tailwind,typescript,vscode)](https://skillicons.dev)
+
+---
+
+<div>
+  <picture>
+    <source
+      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.webp"
+      type="image/webp"
+    />
+    <img
+      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif"
+      alt="🌈"
+      width="64"
+      height="64"
+    />
+  </picture>
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=GitHub+Stats;Most+Used+Languages"
+      alt="GitHub Stats and Most Used Programming Languages"
+  /></a>
+</div>
+<br />
+
+<table>
+  <tr>
+    <td>
+      <div>
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api?username=neilivanorencia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+          alt="Neil Ivan Orencia GitHub Stats"
+        />
+      </div>
+    </td>
+    <td>
+      <div>
+        <img
+          align="center"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilivanorencia&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Neil Ivan Orencia Most Used Languages"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div>
+  <picture>
+    <source
+      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp"
+      type="image/webp"
+    />
+    <img
+      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif"
+      alt="🌏"
+      width="64"
+      height="64"
+    />
+  </picture>
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Contact+Information;Let's+Connect;Feel+free+to+message+me!"
+      alt="Typing SVG"
+  /></a>
+</div>
+<br />
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github.com/user-attachments/assets/aa2487d6-080f-442d-8eb8-4f3c88d6f29d"
+        alt="Outlook"
+        width="24"
+        height="24"
+      />
+    </td>
+    <td>
+      <a href="mailto:neilivanorencia@outlook.com"
+        >neilivanorencia@outlook.com</a
+      >
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://github.com/user-attachments/assets/b3193980-ddec-4820-ad4e-8834cb5093d8"
+        alt="GitHub"
+        width="24"
+        height="24"
+      />
+    </td>
+    <td><a href="https://github.com/neilivanorencia">Neil Ivan Orencia</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://github.com/user-attachments/assets/91d98113-7a56-438b-a496-4c51e6c6d9db"
+        alt="ProtonMail"
+        width="24"
+        height="24"
+      />
+    </td>
+    <td>
+      <a href="mailto:neilivanorencia@protonmail.com"
+        >neilivanorencia@protonmail.com</a
+      >
+    </td>
+  </tr>
+</table>
