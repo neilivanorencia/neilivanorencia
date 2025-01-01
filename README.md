@@ -173,8 +173,8 @@ I thrive and am **really passionate about web development and web design**. Addi
       <img
         src="https://github.com/user-attachments/assets/aa2487d6-080f-442d-8eb8-4f3c88d6f29d"
         alt="Outlook"
-        width="24"
-        height="24"
+        width="48"
+        height="48"
       />
     </td>
     <td>
@@ -188,8 +188,8 @@ I thrive and am **really passionate about web development and web design**. Addi
       <img
         src="https://github.com/user-attachments/assets/b3193980-ddec-4820-ad4e-8834cb5093d8"
         alt="GitHub"
-        width="24"
-        height="24"
+        width="48"
+        height="48"
       />
     </td>
     <td><a href="https://github.com/neilivanorencia">Neil Ivan Orencia</a></td>
@@ -199,8 +199,8 @@ I thrive and am **really passionate about web development and web design**. Addi
       <img
         src="https://github.com/user-attachments/assets/91d98113-7a56-438b-a496-4c51e6c6d9db"
         alt="ProtonMail"
-        width="24"
-        height="24"
+        width="48"
+        height="48"
       />
     </td>
     <td>
