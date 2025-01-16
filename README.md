@@ -127,7 +127,7 @@ I thrive and am **really passionate about web development and web design**. Addi
       <div>
         <img
           align="center"
-          src="https://github-readme-stats.vercel.app/api?username=neilivanorencia&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=neilivanorencia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
           alt="Neil Ivan Orencia GitHub Stats"
         />
       </div>
@@ -136,7 +136,7 @@ I thrive and am **really passionate about web development and web design**. Addi
       <div>
         <img
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilivanorencia&layout=compact&theme=tokyonight&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilivanorencia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
           alt="Neil Ivan Orencia Most Used Languages"
         />
       </div>
