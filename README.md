@@ -83,20 +83,70 @@ I thrive and am **really passionate about web development and web design**. Addi
     />
     <img
       src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif"
-      alt="✨"
+      alt="⚙"
       width="64"
       height="64"
     />
   </picture>
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Languages+and+Tools;CSS;Figma;Git;HTML;JavaScript;Next.js;Node.js;Obsidian;Python;React;Sass;Tailwind+CSS;Typescript;Visual+Studio+Code"
-      alt="Languages and Tools"
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Programming+Languages;CSS;HTML;JavaScript;Python;SCSS;TypeScript"
+      alt="Programming Languages"
   /></a>
 </div>
 <br />
 
-[![Languages and Tools](https://skillicons.dev/icons?i=css,figma,git,html,javascript,next,nodejs,obsidian,python,react,scss,tailwind,typescript,vscode)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=css,html,javascript,python,sass,typescript)](https://skillicons.dev)
+
+---
+
+<div>
+  <picture>
+    <source
+      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp"
+      type="image/webp"
+    />
+    <img
+      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif"
+      alt="🚀"
+      width="64"
+      height="64"
+    />
+  </picture>
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Frameworks+and+Libraries;Astro;Next.js;Prisma;React;Tailwind+CSS;Vite;Vitest"
+      alt="Frameworks and Libraries"
+  /></a>
+</div>
+<br />
+
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=astro,next,prisma,react,tailwind,vite,vitest)](https://skillicons.dev)
+
+---
+
+<div>
+  <picture>
+    <source
+      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp"
+      type="image/webp"
+    />
+    <img
+      src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif"
+      alt="⚙"
+      width="64"
+      height="64"
+    />
+  </picture>
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Tools+and+Platforms;Bun;Figma;Git;GitHub;Node.js;npm;Obsidian;pnpm;Powershell;Visual+Studio+Code"
+      alt="Software and Tools"
+  /></a>
+</div>
+<br />
+
+[![Tools and Platforms](https://skillicons.dev/icons?i=bun,figma,git,github,nodejs,npm,obsidian,pnpm,powershell,vscode)](https://skillicons.dev)
 
 ---
 
