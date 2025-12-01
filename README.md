@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD041 -->
 <div>
   <img
     src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
@@ -7,38 +5,20 @@
     alt="JavaScript is the boss"
   />
 </div>
-
-<h1 align="center">Neil Ivan Orencia</h1>
+<br />
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.webp"
-      type="image/webp"
-    />
-    <img
-      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.gif"
-      alt="🫣"
-      width="32"
-      height="32"
-    />
-  </picture>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=36&duration=3000&pause=99999&color=F7F7F7&center=true&vCenter=true&width=600&lines=Neil+Ivan+Orencia"
+    alt="Neil Ivan Orencia"
+  />
+</div>
+
+<div align="center">
   <img
     src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fneilivanorencia&label=Profile%20Views&labelColor=%23025b64&countColor=%23028391&style=flat-square&labelStyle=none"
     alt="Visitors"
   />
-  <picture>
-    <source
-      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.webp"
-      type="image/webp"
-    />
-    <img
-      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.gif"
-      alt="🫣"
-      width="32"
-      height="32"
-    />
-  </picture>
 </div>
 <br />
 
@@ -46,22 +26,10 @@ Hi there! I'm a **Bachelor of Science in Computer Science major in Intelligent S
 
 ---
 
-<div>
-  <picture>
-    <source
-      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp"
-      type="image/webp"
-    />
-    <img
-      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif"
-      alt="🎓"
-      width="64"
-      height="64"
-    />
-  </picture>
+<div align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=About+Me;BSCS+Major+in+Intelligent+Systems;Aspiring+Web+Developer;Tech+Enthusiast;Life-long+Learner;Resourceful"
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=About+Me;BSCS+Major+in+Intelligent+Systems;Aspiring+Web+Developer;Tech+Enthusiast;Life-long+Learner;Resourceful"
       alt="About Me"
   /></a>
 </div>
@@ -75,188 +43,136 @@ I thrive and am **really passionate about web development and web design**. Addi
 
 ---
 
-<div>
-  <picture>
-    <source
-      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp"
-      type="image/webp"
-    />
-    <img
-      src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif"
-      alt="⚙"
-      width="64"
-      height="64"
-    />
-  </picture>
+<div align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Programming+Languages;CSS;HTML;JavaScript;Python;SCSS;TypeScript"
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Featured+Projects;Mortiscope"
+      alt="Featured Projects"
+  /></a>
+</div>
+<br />
+
+> [!NOTE]
+> Highlighted project that showcases my abilities in the field.
+
+<details>
+<summary>See featured projects</summary>
+<br />
+
+| Title                                                              | Description                                                                                                                                                         |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Mortiscope Web**](https://github.com/mortiscope/mortiscope-web) | A web application for a deep learning system that analyzes _Chrysomya megacephala_ specimens in images to assist in forensic Post-Mortem Interval (PMI) estimation. |
+| [**Mortiscope API**](https://github.com/mortiscope/mortiscope-api) | A backend API for a deep learning system that provides endpoints to analyze _Chrysomya megacephala_ specimens in images for Post-Mortem Interval (PMI) estimation.  |
+
+</details>
+
+---
+
+<div align="center">
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Programming+Languages;CSS;HTML;JavaScript;Python;SCSS;TypeScript"
       alt="Programming Languages"
   /></a>
 </div>
 <br />
 
-[![Programming Languages](https://skillicons.dev/icons?i=css,html,javascript,python,sass,typescript)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,javascript,python,sass,typescript" alt="Programming Languages" />
+  </a>
+</div>
 
 ---
 
-<div>
-  <picture>
-    <source
-      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp"
-      type="image/webp"
-    />
-    <img
-      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif"
-      alt="🚀"
-      width="64"
-      height="64"
-    />
-  </picture>
+<div align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Frameworks+and+Libraries;Astro;Next.js;Prisma;React;Tailwind+CSS;Vite;Vitest"
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Frameworks+and+Libraries;Astro;FastAPI;Next.js;Prisma;PyTorch;React;Tailwind+CSS;TensorFlow;Vite;Vitest;Vue"
       alt="Frameworks and Libraries"
   /></a>
 </div>
 <br />
 
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=astro,next,prisma,react,tailwind,vite,vitest)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,fastapi,next,prisma,pytorch,react,tailwind,tensorflow" alt="Frameworks and Libraries" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=vite,vitest,vue" alt="Frameworks and Libraries" />
+  </a>
+</div>
 
 ---
 
-<div>
-  <picture>
-    <source
-      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp"
-      type="image/webp"
-    />
-    <img
-      src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif"
-      alt="⚙"
-      width="64"
-      height="64"
-    />
-  </picture>
+<div align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Tools+and+Platforms;Bun;Figma;Git;GitHub;Node.js;npm;Obsidian;pnpm;Powershell;Visual+Studio+Code"
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Tools+and+Platforms;Appwrite;Bun;Docker;Figma;Git;GitHub;Node.js;npm;Obsidian;PostgreSQL;pnpm;PowerShell;Redis;Sentry;Visual+Studio+Code"
       alt="Software and Tools"
   /></a>
 </div>
 <br />
 
-[![Tools and Platforms](https://skillicons.dev/icons?i=bun,figma,git,github,nodejs,npm,obsidian,pnpm,powershell,vscode)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=appwrite,bun,docker,figma,git,github,nodejs,npm" alt="Tools and Platforms" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=obsidian,postgres,pnpm,powershell,sentry,redis,vscode" alt="Tools and Platforms" />
+  </a>
+</div>
 
 ---
 
-<div>
-  <picture>
-    <source
-      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.webp"
-      type="image/webp"
-    />
-    <img
-      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f308/512.gif"
-      alt="🌈"
-      width="64"
-      height="64"
-    />
-  </picture>
+<div align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=GitHub+Stats;Most+Used+Languages"
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=GitHub+Stats;Most+Used+Languages"
       alt="GitHub Stats and Most Used Programming Languages"
   /></a>
 </div>
 <br />
 
-<table>
-  <tr>
-    <td>
-      <div>
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=neilivanorencia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
-          alt="Neil Ivan Orencia GitHub Stats"
-        />
-      </div>
-    </td>
-    <td>
-      <div>
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilivanorencia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
-          alt="Neil Ivan Orencia Most Used Languages"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a
+    href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=material-palenight&fontFamily=Geist%20Mono&preferLogin=false&borderRadius=16&Border=292D3E"
+  >
+    <img
+      alt="neilivanorencia's GitHub Stats"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/neilivanorencia?cardType=github&theme=material-palenight&fontFamily=Geist%20Mono&preferLogin=false&borderRadius=16&Border=292D3E"
+    />
+  </a>
+</div>
 
 ---
 
-<div>
-  <picture>
-    <source
-      srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp"
-      type="image/webp"
-    />
-    <img
-      src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif"
-      alt="🌏"
-      width="64"
-      height="64"
-    />
-  </picture>
+<div align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=F7F7F7&width=435&lines=Contact+Information;Let's+Connect;Feel+free+to+message+me!"
-      alt="Typing SVG"
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Contact+Information;Let's+Connect;Feel+free+to+message+me!"
+      alt="Contact Information"
   /></a>
 </div>
 <br />
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github.com/user-attachments/assets/aa2487d6-080f-442d-8eb8-4f3c88d6f29d"
-        alt="Outlook"
-        width="48"
-        height="48"
-      />
-    </td>
-    <td>
-      <a href="mailto:neilivanorencia@outlook.com"
-        >neilivanorencia@outlook.com</a
-      >
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="https://github.com/user-attachments/assets/b3193980-ddec-4820-ad4e-8834cb5093d8"
-        alt="GitHub"
-        width="48"
-        height="48"
-      />
-    </td>
-    <td><a href="https://github.com/neilivanorencia">Neil Ivan Orencia</a></td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="https://github.com/user-attachments/assets/91d98113-7a56-438b-a496-4c51e6c6d9db"
-        alt="ProtonMail"
-        width="48"
-        height="48"
-      />
-    </td>
-    <td>
-      <a href="mailto:neilivanorencia@protonmail.com"
-        >neilivanorencia@protonmail.com</a
-      >
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://linkedin.com/neilivanorencia">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Neil%20Ivan%20Orencia-%232088FF?style=flat&logo=github&logoColor=white&labelColor=%23479DFF"
+      alt="LinkedIn"
+    />
+  </a>
+  <br />
+  <a href="mailto:neilivanorencia@outlook.com">
+    <img
+      src="https://img.shields.io/badge/Outlook-neilivanorencia%40outlook.com-%23004788?style=flat&logo=maildotcom&logoColor=white&labelColor=%23005FB8"
+      alt="Outlook"
+    />
+  </a>
+  <br />
+  <a href="mailto:neilivanorencia@protonmail.com">
+    <img
+      src="https://img.shields.io/badge/Proton%20Mail-neilivanorencia%40protonmail.com-%236D4AFF?style=flat&logo=protonmail&logoColor=white&labelColor=%238D70FF"
+      alt="ProtonMail"
+    />
+  </a>
+</div>
