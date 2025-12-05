@@ -35,11 +35,7 @@ Hi there! I'm a **Bachelor of Science in Computer Science major in Intelligent S
 </div>
 <br />
 
-I am currently taking **Bachelor of Science in Computer Science** with a constant **keen interest in technology** and **passion about lifelong learning**. I work hard and am **adaptable** with a **receptive mind for changes and improvements** in the continuously changing field of technology.
-
-My attention is geared more towards being **analytical** and **resourceful** as well as **updating my knowledge** to keep track and stay ahead of the upcoming developments in the field of technology.
-
-I thrive and am **really passionate about web development and web design**. Additionally, I possess a **solid foundation of knowledge in data science and machine learning**. I also constantly try to **learn and look to add knowledge** in other areas that involve coding.
+I'm currently taking **Bachelor of Science in Computer Science, majoring in Intelligent Systems**, with a strong pull toward **web development and web design** and a solid grounding in **data science and machine learning**. I stay **adaptable and analytical**, always looking to pick up new tools and ideas as the field moves.
 
 ---
 
@@ -52,19 +48,10 @@ I thrive and am **really passionate about web development and web design**. Addi
 </div>
 <br />
 
-> [!NOTE]
-> Highlighted project that showcases my abilities in the field.
-
-<details>
-<summary>See featured projects</summary>
-<br />
-
-| Title                                                              | Description                                                                                                                                                         |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Mortiscope Web**](https://github.com/mortiscope/mortiscope-web) | A web application for a deep learning system that analyzes _Chrysomya megacephala_ specimens in images to assist in forensic Post-Mortem Interval (PMI) estimation. |
-| [**Mortiscope API**](https://github.com/mortiscope/mortiscope-api) | A backend API for a deep learning system that provides endpoints to analyze _Chrysomya megacephala_ specimens in images for Post-Mortem Interval (PMI) estimation.  |
-
-</details>
+| Title                                                              | Tech Stack                                                                            | Description                                                                                                                                                         |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Mortiscope Web**](https://github.com/mortiscope/mortiscope-web) | Next.js, React, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL, Vitest, Playwright | A web application for a deep learning system that analyzes _Chrysomya megacephala_ specimens in images to assist in forensic Post-Mortem Interval (PMI) estimation. |
+| [**Mortiscope API**](https://github.com/mortiscope/mortiscope-api) | FastAPI, Python, PyTorch, OpenCV, ONNX, SQLAlchemy, Pytests, Poetry                   | A backend API for a deep learning system that provides endpoints to analyze _Chrysomya megacephala_ specimens in images for Post-Mortem Interval (PMI) estimation.  |
 
 ---
 
@@ -126,19 +113,26 @@ I thrive and am **really passionate about web development and web design**. Addi
 <div align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=GitHub+Stats;Most+Used+Languages"
+      src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=GitHub+Stats;Most+Used+Languages;Streak"
       alt="GitHub Stats and Most Used Programming Languages"
   /></a>
 </div>
 <br />
 
 <div align="center">
-  <a
-    href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=material-palenight&fontFamily=Geist%20Mono&preferLogin=false&borderRadius=16&Border=292D3E"
-  >
+  <a href="https://github-stats-extended.vercel.app">
     <img
       alt="neilivanorencia's GitHub Stats"
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/neilivanorencia?cardType=github&theme=material-palenight&fontFamily=Geist%20Mono&preferLogin=false&borderRadius=16&Border=292D3E"
+      src="https://github-stats-extended.vercel.app/api?username=neilivanorencia&theme=material-palenight&border_radius=28&hide_border=true&card_width=450&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+      width="450"
+    />
+  </a>
+  <br />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=neilivanorencia&layout=normal&langs_count=4&theme=material-palenight&hide_border=true&border_radius=28&card_width=450&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+    <img
+      alt="neilivanorencia's Top Languages"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=neilivanorencia&layout=normal&langs_count=4&theme=material-palenight&hide_border=true&border_radius=28&card_width=450&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+      width="450"
     />
   </a>
 </div>
@@ -155,7 +149,7 @@ I thrive and am **really passionate about web development and web design**. Addi
 <br />
 
 <div align="center">
-  <a href="https://linkedin.com/neilivanorencia">
+  <a href="https://linkedin.com/in/neilivanorencia">
     <img
       src="https://img.shields.io/badge/LinkedIn-Neil%20Ivan%20Orencia-%232088FF?style=flat&logo=github&logoColor=white&labelColor=%23479DFF"
       alt="LinkedIn"
